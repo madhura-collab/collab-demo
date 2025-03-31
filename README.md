@@ -1,4 +1,4 @@
 # collab-demo
 This is my first Git Respository..!
 <br>
-Author - Madhura khamkar
+Author - Madhura (khamkar)
